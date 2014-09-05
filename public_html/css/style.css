@@ -1,0 +1,39 @@
+body 
+{
+    background-color: firebrick;
+}
+
+nav a 
+{
+    color: aqua;
+}
+
+#current-link
+{
+    text-decoration: none;
+}
+
+.uppercase
+{
+    text-transform: uppercase;
+    font-size: 42px;
+}
+
+img
+{
+    width: 300px;
+    height: auto;
+}
+
+h1
+{
+    border-bottom: 3px double black;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 1000px;
+    
+}
+
