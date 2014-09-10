@@ -1,12 +1,12 @@
 body 
 {
     background-color: lightseagreen;
-    font-family: cursive 
+    font-family: cursive
 }
 
 nav a 
 {
-    color: dimgray;
+    color: darkblue; 
 }
 
 #current-link
